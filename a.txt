@@ -1,2 +1,2 @@
 hello github
-today is sunday%%
+today is monday%%
